@@ -53,10 +53,10 @@ $(document).ready(function(){
 
       return "B";
     }
-      else if ( averageIndicate >= 80){
+      else if ( averageIndicate >= 40){
         return "C";
       }
-
+      
      else {
       return "D";
     }
